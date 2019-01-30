@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "signature_uri": "https://raw.githubusercontent.com/firstlookmedia/keylist/master/keylist.json.asc",
+    "signature_uri": "https://raw.githubusercontent.com/micahflee/flm-keylist/master/keylist.json.asc",
     "comment": "First Look Media keylist"
   },
   "keys": [
@@ -1122,6 +1122,6 @@
       "fingerprint": "ED64133DD74D36CC54C2A33689A82260C535DE9F",
       "name": "First Look Media HR",
       "email": "hr@firstlook.media"
-    } 
+    }
   ]
 }
