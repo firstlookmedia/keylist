@@ -1054,16 +1054,6 @@
       "email": "dolly.ahluwalia@firstlook.media"
     },
     {
-      "fingerprint": "10BC87DA62BFDA8FB8EB5DF490619E7AF6C78680",
-      "name": "JJ Citron",
-      "email": "jj.citron@firstlook.media"
-    },
-    {
-      "fingerprint": "785412EB8C872788C2E9626813E90778CA14B3C4",
-      "name": "JuliAnna Patino",
-      "email": "julianna.patino@theintercept.com"
-    },
-    {
       "fingerprint": "1FA3A335905615934713CBD7BB6D5DDF27E65742",
       "name": "Krish Dholakiya",
       "email": "krishna.dholakiya@firstlook.media"
@@ -1099,14 +1089,39 @@
       "email": "sidhant.tilokani@topic.com"
     },
     {
-      "fingerprint": "9270FE9424320BCADA669A07990C9F1FD9B3CAA2",
-      "name": "Sam Couch",
-      "email": "sam@couch.rocks"
-    },
-    {
       "fingerprint": "43BEA67BB5465A0D33BCEAE6DB8ED832B03972FF",
       "name": "William Frank",
       "email": "will.frank@topic.com"
-    }
+    },
+    {
+      "fingerprint": "41C7F66A26A2101CB1432828403FD967EDD86BDE",
+      "name": "Irene Chidinma Nwoye",
+      "email": "irenechidinma.nwoye@theintercept.com"
+    },
+    {
+      "fingerprint": "54FA22CC1E5083FA600315847B1583B9FEEFF166",
+      "name": "Whitney Matewe",
+      "email": "whitney.matewe@theintercept.com"
+    },
+    {
+      "fingerprint": "B4731987D1931CBD298415ABD6807CB8BF6F0E22",
+      "name": "Carla Hernandez",
+      "email": "carla.hernandez@firstlook.media"
+    },
+    {
+      "fingerprint": "356AA7A5510A29AC8F17308AE1C26CA48C205DC9",
+      "name": "First Look Media Business Affairs",
+      "email": "t-ba@firstlook.media"
+    },
+    {
+      "fingerprint": "E3E89383517869FC7F76F1AF137BA60D7817E579",
+      "name": "First Look Media Facilities",
+      "email": "facilities@firstlook.media"
+    },
+    {
+      "fingerprint": "ED64133DD74D36CC54C2A33689A82260C535DE9F",
+      "name": "First Look Media HR",
+      "email": "hr@firstlook.media"
+    } 
   ]
 }
